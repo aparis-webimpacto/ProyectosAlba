@@ -5,7 +5,7 @@
 //Instanciamos la clase producto 
 
     $producto=new Product();
-//Setamos los valores
+//Setamos los valores 
     $producto->setName("Gorro");
     $producto->setStock(5);
 
